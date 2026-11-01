@@ -76,5 +76,3 @@ Weather data is provided by [Open-Meteo](https://open-meteo.com/).
 
 **Dileep Maurya**
 
-* GitHub: https://github.com/Dileep328
-* LinkedIn: https://linkedin.com/in/dileep-maurya-sid2003/
